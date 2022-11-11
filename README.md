@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/carlloseduardo07">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=carloseduardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
-  <img width="48%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardo&layout=compact&langs_count=7&theme=dracula" style="max-width: 100%;"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=carlloseduardo07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
+  <img width="48%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlloseduardo07&layout=compact&langs_count=7&theme=dracula" style="max-width: 100%;"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
