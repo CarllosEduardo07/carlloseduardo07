@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&duration=4000&pause=2000&lines=Olá+Sou+Carlos+Eduardo+Desenvolvedor+Front-End;)](https://git.io/typing-svg)
-## Olá! Bem vindo ao meu perfil!
+## Bem vindo ao meu perfil!
 ### Estutante de Programação
 #### Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
 #### Aqui está meu portfólio
