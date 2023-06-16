@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil!
 ### Estutante de Programação
 #### Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
-#### Aqui está meu portfólio
+#### [Clique aqui para abrir meu portfólio](https://portfolio-carlos-eduardo.vercel.app/#/home)
 
 <div align="center">
   <a href="https://github.com/carlloseduardo07">
