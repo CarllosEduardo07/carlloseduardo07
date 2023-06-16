@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&duration=4000&pause=2000&lines=Olá+Sou+Carlos+Eduardo+Desenvolvedor+Front-End;)](https://git.io/typing-svg)
 ## Olá! Bem vindo ao meu perfil!
 ### Estutante de Programação
 #### Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
@@ -5,10 +6,10 @@
 
 <div align="center">
   <a href="https://github.com/carlloseduardo07">
-  <img height="180em" height="190em" src="https://github-readme-stats.vercel.app/api?username=carlloseduardo07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
-  <img height="180em" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlloseduardo07&layout=compact&langs_count=10&theme=dracula" style="max-width: 100%;"/>
+  <img height="180em" height="190em" src="https://github-readme-stats.vercel.app/api?username=carlloseduardo07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=blue-green&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="carlloseduardo07" style="max-width: 100%;"/>
+  <img height="180em" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlloseduardo07&layout=compact&hide_border=true&langs_count=8&title_color=blue-green&text_color=1E90FF&bg_color=0d1117" style="max-width: 100%;"/>
 </div>
-  
+ 
 <div align="center" style="display: inline_block"><br>
   
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
