@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&duration=4000&pause=2000&lines=Olá+Sou+Carlos+Eduardo+Desenvolvedor+Front-End;)](https://git.io/typing-svg)
 ## Bem vindo ao meu perfil!
-### Estutante de Programação
-#### Criei este perfil para publicar Projetos, Ideias e Estudos.
+### Criei este perfil para publicar Projetos, Ideias e Estudos.
 #### <a href="https://carlos--eduardo.vercel.app" target="_blank">Clique aqui para abrir meu portfólio</a>
 <!-- #### [Clique aqui para abrir meu portfólio](https://portfolio-carlos-eduardo.vercel.app/#/home) -->
 
