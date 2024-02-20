@@ -10,22 +10,16 @@
   <img height="180em" height="190em" src="https://github-readme-stats.vercel.app/api?username=carlloseduardo07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=blue-green&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="carlloseduardo07" style="max-width: 100%;"/>
   <img height="180em" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlloseduardo07&layout=compact&hide_border=true&langs_count=8&title_color=blue-green&text_color=1E90FF&bg_color=0d1117" style="max-width: 100%;"/>
 </div>
+    
+ ##
  
 <div align="center" style="display: inline_block"><br>
+   <div align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,ts,angular,php,mysql,nodejs,git"/>
+    </a>
+ </div>
   
-  <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Edu-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<!--   <img align="center" alt="Edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-  <img align="center" alt="Edu-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />        
-<!--   <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-  <img align="center" alt="Edu-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Edu-Csharp" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">  
-  <img align="center" alt="Edu-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  <img align="center" alt="Edu-Csharp" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-
 ##
 
 <div align="center"> 
