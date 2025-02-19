@@ -15,14 +15,14 @@
 <div align="center" style="display: inline_block"><br>
    <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,ts,angular,react,next,mysql,nodejs,git,docker,figma"/>
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,ts,angular,react,next,mysql,nodejs,fastify,git,docker,figma"/>
     </a>
  </div>
   
 <!-- snake e sociais -->
 <div align="center"> 
 <!--   <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-  <a href="mailto:alb.eduardo7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:djcarloseduardo7777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dev-carlos-eduardo7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![snake gif](https://github.com/carlloseduardo07/carlloseduardo07/blob/output/github-contribution-grid-snake-dark.svg)
