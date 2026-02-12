@@ -6,7 +6,7 @@
   
 | carloseduardo.me |
 |:-:|
-|<a href="https://carloseduardo.me"><img width="400" alt="Screenshot of carloseduardo.me/" src="https://github.com/user-attachments/assets/5371e32d-295e-4c05-bd6c-505421a71609"></a><br /><a href="https://carloseduardo.me">Encontre meus projetos aqui</a> | 
+|<a href="https://carloseduardo.me" target="_blank"><img width="400" alt="Screenshot of carloseduardo.me/" src="https://github.com/user-attachments/assets/5371e32d-295e-4c05-bd6c-505421a71609"></a><br /><a href="https://carloseduardo.me" target="_blank">Encontre meus projetos aqui</a> | 
 
 
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=carlloseduardo07&color=gray) -->
