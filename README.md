@@ -1,16 +1,27 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&duration=4000&pause=2000&lines=Olá+Sou+Carlos+Eduardo+Desenvolvedor+Front-End;)](https://git.io/typing-svg)
 ## Bem vindo ao meu perfil!
 ### Criei este perfil para publicar Projetos, Ideias e Estudos.
-#### <a href="https://carloseduardo.me" target="_blank">Clique aqui para abrir meu portfólio</a>
-<!-- #### [Clique aqui para abrir meu portfólio](https://portfolio-carlos-eduardo.vercel.app/#/home) -->
 
-<!-- Painel de commits e linguagens -->
 <div align="center">
+  
+| carloseduardo.me |
+|:-:|
+|<a href="https://carloseduardo.me"><img width="400" alt="Screenshot of carloseduardo.me/" src="https://github.com/user-attachments/assets/5371e32d-295e-4c05-bd6c-505421a71609"></a><br /><a href="https://carloseduardo.me">Encontre meus projetos aqui</a> | 
+
+
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=carlloseduardo07&color=gray) -->
+<!-- ![](https://hit.yhype.me/github/profile?user_id=69825576) -->
+  
+<!-- Painel de commits e linguagens -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlloseduardo07&theme=aura) -->
+</div>
+
+<!-- <div align="center">
   <a href="https://github.com/carlloseduardo07">
   <img height="180em" height="190em" src="https://github-readme-stats.vercel.app/api?username=carlloseduardo07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=blue-green&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="carlloseduardo07" style="max-width: 100%;"/>
   <img height="180em" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlloseduardo07&layout=compact&hide_border=true&langs_count=8&title_color=blue-green&text_color=1E90FF&bg_color=0d1117" style="max-width: 100%;"/>
 </div>
-    
+     -->
  <!-- Skills -->
 <div align="center" style="display: inline_block"><br>
    <div align="center">
